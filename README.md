@@ -1,7 +1,7 @@
 <img src="banner.png">
 <h2 align="center">Hi 👋, I'm Khushal Jangid</h2>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Full+Stack+Developer;Problem+Solver;Graphic+Designer;Cloud+Practitioner;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&color=EBF724&width=435&lines=Full+Stack+Developer;Problem+Solver;Graphic+Designer;Cloud+Developer;" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I work with **Python,Dart and Javascript**
